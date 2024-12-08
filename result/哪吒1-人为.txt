@@ -1,0 +1,10 @@
+1. Timeline: 0:00:00.00-0:00:05.00, Context: 好活, Similarity: 0.0000
+2. Timeline: 0:00:00.00-0:00:08.00, Context: 吒哥，今天我们砍谁, Similarity: 0.0000
+3. Timeline: 0:00:00.04-0:00:08.04, Context: 走出六亲不认的步伐，你哪吒就是陈塘关最靓仔！！❗❗❗, Similarity: 0.0000
+4. Timeline: 0:00:00.04-0:00:08.04, Context: 走出六亲不认的步伐，你哪吒就是陈塘关最靓仔！！❗❗❗, Similarity: 0.0000
+5. Timeline: 0:00:00.38-0:00:05.38, Context: 山鸡哥yyds, Similarity: 0.0000
+6. Timeline: 0:00:00.91-0:00:08.91, Context: 我是你爷爷, Similarity: 0.0000
+7. Timeline: 0:00:00.96-0:00:08.96, Context: [齐天大圣]进入直播间, Similarity: 0.0000
+8. Timeline: 0:00:01.47-0:00:06.47, Context: 50亿了！补录后50亿！, Similarity: 0.0000
+9. Timeline: 0:00:01.70-0:00:09.70, Context: 【新宝岛】进入直播间, Similarity: 0.0000
+10. Timeline: 0:00:01.76-0:00:09.76, Context: 50亿了！！！吒哥, Similarity: 0.0000

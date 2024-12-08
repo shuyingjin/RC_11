@@ -1,0 +1,10 @@
+1. Timeline: 0:00:20.72-0:00:28.72, Context: 樱花, Similarity: 0.2641
+2. Timeline: 0:00:47.02-0:00:55.02, Context: 是有多爱樱花, Similarity: 0.2641
+3. Timeline: 0:00:58.06-0:01:06.06, Context: 樱花, Similarity: 0.2641
+4. Timeline: 0:01:08.26-0:01:16.26, Context: 樱花抄, Similarity: 0.2641
+5. Timeline: 0:02:44.33-0:02:52.33, Context: 樱花, Similarity: 0.2641
+6. Timeline: 0:34:59.07-0:35:04.07, Context: 发现, Similarity: 0.2597
+7. Timeline: 0:00:09.36-0:00:17.36, Context: 樱花樱花想见你。。。, Similarity: 0.2161
+8. Timeline: 0:01:18.91-0:01:26.91, Context: 我爱人类！！！！！, Similarity: 0.1936
+9. Timeline: 0:01:42.80-0:01:50.80, Context: 我爱人类！！！！！, Similarity: 0.1936
+10. Timeline: 0:01:46.71-0:01:54.71, Context: 我爱人类！！！！！, Similarity: 0.1936

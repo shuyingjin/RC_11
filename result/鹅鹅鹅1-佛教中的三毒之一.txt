@@ -1,0 +1,10 @@
+1. Timeline: 0:02:17.95-0:02:25.95, Context: 《消失的鹅》, Similarity: 0.1437
+2. Timeline: 0:02:21.48-0:02:29.48, Context: 消失的我, Similarity: 0.1437
+3. Timeline: 0:02:49.36-0:02:57.36, Context: 消失的鹅, Similarity: 0.1437
+4. Timeline: 0:06:26.32-0:06:34.32, Context: 欲望, Similarity: 0.1437
+5. Timeline: 0:06:32.38-0:06:40.38, Context: 欲望, Similarity: 0.1437
+6. Timeline: 0:10:41.84-0:10:49.84, Context: 这些, Similarity: 0.1437
+7. Timeline: 0:13:56.78-0:14:04.78, Context: 谁是你的欲望？你又是谁的欲望？, Similarity: 0.1437
+8. Timeline: 0:12:59.21-0:13:04.21, Context: 主要的欲望苏醒了。后续的欲望便会消失。你的欲望又回到了那几只鹅, Similarity: 0.1242
+9. Timeline: 0:08:09.87-0:08:14.87, Context: 欲望会滋生新的欲望新的欲望则会再滋生出新欲望。这是一个无尽的轮回。, Similarity: 0.0989
+10. Timeline: 0:00:50.60-0:00:58.60, Context: 这些事送, Similarity: 0.0833

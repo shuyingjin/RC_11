@@ -1,0 +1,10 @@
+1. Timeline: 0:06:44.15-0:06:52.15, Context: 一个阴火一个阳火, Similarity: 0.1637
+2. Timeline: 0:09:39.16-0:09:47.16, Context: 一个金吹，一个火吹, Similarity: 0.1637
+3. Timeline: 0:29:18.39-0:29:26.39, Context: 嗔兽的影响还在。, Similarity: 0.1571
+4. Timeline: 0:02:53.18-0:03:01.18, Context: 单走一个六, Similarity: 0.1338
+5. Timeline: 0:02:53.37-0:03:01.37, Context: 单走一个六, Similarity: 0.1338
+6. Timeline: 0:10:40.99-0:10:48.99, Context: 一个家族, Similarity: 0.1338
+7. Timeline: 0:19:48.55-0:19:56.55, Context: 一个真正的鳗, Similarity: 0.1338
+8. Timeline: 0:19:56.99-0:20:04.99, Context: 一个真正的坤漫, Similarity: 0.1338
+9. Timeline: 0:23:43.50-0:23:51.50, Context: 他是要一个人全部打完吗？, Similarity: 0.1338
+10. Timeline: 0:26:14.58-0:26:22.58, Context: 好一个地包天, Similarity: 0.1338

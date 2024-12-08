@@ -1,0 +1,10 @@
+1. Timeline: 0:07:15.24-0:07:23.24, Context: 可以, Similarity: 0.3631
+2. Timeline: 0:07:37.58-0:07:45.58, Context: 我可以退了, Similarity: 0.3631
+3. Timeline: 0:07:35.58-0:07:40.58, Context: 可以，我听不懂了, Similarity: 0.2105
+4. Timeline: 0:01:12.00-0:01:20.00, Context: 应该是赞叹生命，尊重生命，以及自己的生命, Similarity: 0.1615
+5. Timeline: 0:14:20.92-0:14:28.92, Context: 感觉电影更多讨论是哲学，, Similarity: 0.1448
+6. Timeline: 0:10:14.11-0:10:22.11, Context: 没听懂的可以试着多看几遍, Similarity: 0.1380
+7. Timeline: 0:20:36.79-0:20:44.79, Context: 阿婆的普通话要再好点就可以了, Similarity: 0.1380
+8. Timeline: 0:01:44.94-0:01:52.94, Context: 生命起源, Similarity: 0.1356
+9. Timeline: 0:08:21.27-0:08:29.27, Context: 就是说，如果没有存在观察到宇宙，那宇宙就没法诞生，就相当于你死了永远看不到这个世界了，但对于你来说这个世界是不是就不存在了呢？, Similarity: 0.1244
+10. Timeline: 0:11:57.11-0:12:05.11, Context: 那鲸都可以懂吗？对照比较, Similarity: 0.1217

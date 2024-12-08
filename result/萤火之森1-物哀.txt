@@ -1,0 +1,10 @@
+1. Timeline: 0:00:06.03-0:00:14.03, Context: 我发现了啥？, Similarity: 0.2597
+2. Timeline: 0:40:15.80-0:40:23.80, Context: 好悲伤的说, Similarity: 0.2597
+3. Timeline: 0:36:29.26-0:36:37.26, Context: 人类！！, Similarity: 0.1936
+4. Timeline: 0:36:36.63-0:36:44.63, Context: 那是人类，，！我擦, Similarity: 0.1936
+5. Timeline: 0:00:01.56-0:00:09.56, Context: 瞧我发现了什么, Similarity: 0.1506
+6. Timeline: 0:00:03.49-0:00:11.49, Context: 看我发现了什么, Similarity: 0.1506
+7. Timeline: 0:00:20.76-0:00:28.76, Context: 进来痛苦, Similarity: 0.1506
+8. Timeline: 0:11:15.01-0:11:23.01, Context: 发现了吗孩子, Similarity: 0.1506
+9. Timeline: 0:28:28.80-0:28:33.80, Context: 无论秋天，无论冬天，无论春天, Similarity: 0.1403
+10. Timeline: 0:03:47.24-0:03:52.24, Context: 被人类……哥哥不是人类吗？, Similarity: 0.1373

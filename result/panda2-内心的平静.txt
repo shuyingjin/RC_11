@@ -1,0 +1,10 @@
+1. Timeline: 0:02:50.94-0:02:58.94, Context: 超越, Similarity: 0.1091
+2. Timeline: 0:04:39.37-0:04:47.37, Context: 缺的不是钱，是心, Similarity: 0.0955
+3. Timeline: 0:04:31.48-0:04:39.48, Context: 中国有好的动，但是竞争不过腊鸡的，社会环境就是这样, Similarity: 0.0913
+4. Timeline: 0:00:39.00-0:00:47.00, Context: 菲湿状态下的沈王爷, Similarity: 0.0870
+5. Timeline: 0:07:46.24-0:07:54.24, Context: 内心强大  别让邪念把正念打倒了, Similarity: 0.0856
+6. Timeline: 0:07:13.37-0:07:21.37, Context: 人们往往在躲避命运的路上与之不期而遇, Similarity: 0.0775
+7. Timeline: 0:02:03.02-0:02:11.02, Context: 国产电影的环境就是劣币驱逐良币, Similarity: 0.0729
+8. Timeline: 0:07:13.96-0:07:21.96, Context: 出现了   太极！, Similarity: 0.0723
+9. Timeline: 0:03:19.05-0:03:27.05, Context: 问题的答案就在自己内心，世上没有秘籍, Similarity: 0.0713
+10. Timeline: 0:05:26.29-0:05:34.29, Context: “有些时候，在学会走之前，就得学会跑”, Similarity: 0.0693

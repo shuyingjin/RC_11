@@ -1,0 +1,10 @@
+1. Timeline: 0:05:16.21-0:05:24.21, Context: 你可以吃，我没说不抢, Similarity: 0.3631
+2. Timeline: 0:04:35.84-0:04:43.84, Context: 中国武侠世界, Similarity: 0.2151
+3. Timeline: 0:05:27.41-0:05:32.41, Context: “你可以开始了”, Similarity: 0.2105
+4. Timeline: 0:05:52.84-0:06:00.84, Context: 不过可以吃蛋, Similarity: 0.2105
+5. Timeline: 0:04:14.54-0:04:22.54, Context: 这会就已经可以还手去挡了, Similarity: 0.1380
+6. Timeline: 0:05:26.98-0:05:34.98, Context: 皮包着馅儿都可以叫这个词, Similarity: 0.1380
+7. Timeline: 0:05:29.38-0:05:37.38, Context: 练功到师父那个境界，一来可以少吃饭。二来，也可以多吃，即便吃再多，也完全消耗的了，不会变胖的。, Similarity: 0.1380
+8. Timeline: 0:05:31.78-0:05:39.78, Context: 这个翻译可以，很有意思, Similarity: 0.1380
+9. Timeline: 0:06:55.41-0:07:03.41, Context: 神龙大侠可以靠露水, Similarity: 0.1380
+10. Timeline: 0:01:55.21-0:02:03.21, Context: 存在即合理, Similarity: 0.1216

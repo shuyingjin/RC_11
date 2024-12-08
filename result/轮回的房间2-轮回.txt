@@ -1,0 +1,10 @@
+1. Timeline: 0:11:44.96-0:11:52.96, Context: 我也少一个花, Similarity: 0.1534
+2. Timeline: 0:22:38.96-0:22:46.96, Context: 转不过去了呢, Similarity: 0.1534
+3. Timeline: 0:18:50.00-0:18:58.00, Context: 火柴用到现在, Similarity: 0.1429
+4. Timeline: 0:17:25.58-0:17:30.58, Context: 如果把虫放蛋上…坤坤！, Similarity: 0.1338
+5. Timeline: 0:08:47.56-0:08:55.56, Context: 每个形态都有一个三角, Similarity: 0.1273
+6. Timeline: 0:16:44.15-0:16:52.15, Context: 找不同, Similarity: 0.1268
+7. Timeline: 0:02:54.57-0:03:02.57, Context: 我这里一个一个的试, Similarity: 0.1255
+8. Timeline: 0:08:26.79-0:08:34.79, Context: 我都是一个一个滑出来的, Similarity: 0.1255
+9. Timeline: 0:14:23.35-0:14:31.35, Context: 每个房间镜子里有一个符号对应一个物种, Similarity: 0.1207
+10. Timeline: 0:03:27.40-0:03:35.40, Context: 这个泡泡我是一个一个试的, Similarity: 0.1088

@@ -1,0 +1,10 @@
+1. Timeline: 0:06:52.51-0:07:00.51, Context: 懂得控制自己的情绪冲动欲望，方为宗师, Similarity: 0.1339
+2. Timeline: 0:07:02.44-0:07:07.44, Context: 我不饿=我学会了, Similarity: 0.1091
+3. Timeline: 0:06:05.35-0:06:13.35, Context: 这不是蒙的吗, Similarity: 0.0955
+4. Timeline: 0:01:54.72-0:02:02.72, Context: 名言出现, Similarity: 0.0723
+5. Timeline: 0:06:29.04-0:06:34.04, Context: 他将为山谷带来和平，也将让你的内心获得真正的宁静, Similarity: 0.0713
+6. Timeline: 0:02:57.24-0:03:05.24, Context: 汉斯季默的配乐，成龙的武术设计, Similarity: 0.0587
+7. Timeline: 0:04:55.92-0:05:03.92, Context: 这段印象超级深刻, Similarity: 0.0561
+8. Timeline: 0:06:46.28-0:06:54.28, Context: 出现了！发光料理！, Similarity: 0.0561
+9. Timeline: 0:01:16.10-0:01:24.10, Context: 好像不是想起大龙，而是看好阿宝, Similarity: 0.0557
+10. Timeline: 0:04:36.73-0:04:44.73, Context: 其实这不是在教他功夫，还是在教怎么吃饭。 自然学的快, Similarity: 0.0557

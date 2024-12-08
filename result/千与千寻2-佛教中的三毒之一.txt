@@ -1,0 +1,10 @@
+1. Timeline: 0:04:22.68-0:04:30.68, Context: 这其实暗喻了人贪婪的欲望, Similarity: 0.0886
+2. Timeline: 0:01:09.01-0:01:17.01, Context: 这些是妖怪, Similarity: 0.0833
+3. Timeline: 0:07:19.98-0:07:27.98, Context: 有种说法是千寻溺水的经历，导致了她有这种幻想症, Similarity: 0.0784
+4. Timeline: 0:07:44.24-0:07:52.24, Context: 因为这些猪中没有一头代表贪婪, Similarity: 0.0687
+5. Timeline: 0:01:13.14-0:01:21.14, Context: 记住名字才不会消失, Similarity: 0.0546
+6. Timeline: 0:07:18.08-0:07:26.08, Context: 最最真挚的情感啊！胜于爱情！, Similarity: 0.0546
+7. Timeline: 0:01:12.38-0:01:20.38, Context: 白龙一直有一种超温柔的感觉！, Similarity: 0.0506
+8. Timeline: 0:00:24.56-0:00:32.56, Context: 这些美食可能就是人类变的, Similarity: 0.0482
+9. Timeline: 0:07:44.91-0:07:49.91, Context: 怎么看出来的1.人变成的动物也会有欲望, Similarity: 0.0482
+10. Timeline: 0:00:34.91-0:00:42.91, Context: 我们也是，用了三节课看完。, Similarity: 0.0434

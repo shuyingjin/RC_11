@@ -1,0 +1,10 @@
+1. Timeline: 0:06:52.96-0:07:00.96, Context: 轮回眼, Similarity: 0.2597
+2. Timeline: 0:07:17.11-0:07:25.11, Context: 轮回眼, Similarity: 0.2597
+3. Timeline: 0:07:17.28-0:07:25.28, Context: 轮回眼, Similarity: 0.2597
+4. Timeline: 0:07:19.40-0:07:27.40, Context: 轮回眼, Similarity: 0.2597
+5. Timeline: 0:13:18.11-0:13:26.11, Context: 循环, Similarity: 0.2597
+6. Timeline: 0:01:16.00-0:01:24.00, Context: 我现在就在抱一只鹅, Similarity: 0.1844
+7. Timeline: 0:02:26.25-0:02:34.25, Context: 现在的快递员, Similarity: 0.1844
+8. Timeline: 0:10:43.60-0:10:51.60, Context: 就现在 带着鹅溜号吧, Similarity: 0.1844
+9. Timeline: 0:10:53.59-0:11:01.59, Context: 现在好了，四角恋, Similarity: 0.1844
+10. Timeline: 0:14:46.49-0:14:54.49, Context: 而现在，梦醒了, Similarity: 0.1844

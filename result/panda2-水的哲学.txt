@@ -1,0 +1,10 @@
+1. Timeline: 0:07:00.77-0:07:08.77, Context: 人的本质属性是社会属性, Similarity: 0.3396
+2. Timeline: 0:06:22.43-0:06:27.43, Context: 此哲学非彼哲学, Similarity: 0.2339
+3. Timeline: 0:00:34.75-0:00:42.75, Context: 可以投俩个, Similarity: 0.2105
+4. Timeline: 0:00:58.53-0:01:06.53, Context: 字幕还可以吧, Similarity: 0.2105
+5. Timeline: 0:02:12.59-0:02:20.59, Context: 这可以是预告片了, Similarity: 0.2105
+6. Timeline: 0:06:04.69-0:06:12.69, Context: 剪得可以啊, Similarity: 0.2105
+7. Timeline: 0:02:58.96-0:03:06.96, Context: 这就是哲学吗, Similarity: 0.1356
+8. Timeline: 0:06:58.36-0:07:06.36, Context: 都是哲学问题, Similarity: 0.1356
+9. Timeline: 0:06:16.91-0:06:24.91, Context: 我就想知道你们会如何展现中国精神内核？, Similarity: 0.1244
+10. Timeline: 0:02:39.35-0:02:47.35, Context: 过去无可挽回，未来可以改变, Similarity: 0.1217

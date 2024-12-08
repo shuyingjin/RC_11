@@ -1,0 +1,10 @@
+1. Timeline: 0:03:16.50-0:03:24.50, Context: 人性啊, Similarity: 0.2966
+2. Timeline: 0:03:23.57-0:03:28.57, Context: 《人性》, Similarity: 0.2966
+3. Timeline: 0:01:12.72-0:01:20.72, Context: 人性和贪婪, Similarity: 0.2628
+4. Timeline: 0:02:16.63-0:02:24.63, Context: 人性的贪婪, Similarity: 0.2628
+5. Timeline: 0:02:27.83-0:02:35.83, Context: 人性的贪婪, Similarity: 0.2628
+6. Timeline: 0:04:44.37-0:04:52.37, Context: 人性的贪婪, Similarity: 0.2628
+7. Timeline: 0:00:18.02-0:00:26.02, Context: 黄眉利用人性 金蝉子没人性, Similarity: 0.1883
+8. Timeline: 0:00:48.12-0:00:56.12, Context: 人性赢了！没有杀他, Similarity: 0.1719
+9. Timeline: 0:03:31.20-0:03:39.20, Context: 人性颠倒, Similarity: 0.1719
+10. Timeline: 0:04:43.98-0:04:51.98, Context: 人性，有好有坏, Similarity: 0.1719

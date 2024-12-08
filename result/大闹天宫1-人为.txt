@@ -1,0 +1,10 @@
+1. Timeline: 1:37:50.19-1:37:58.19, Context: 梆子声急，衬托出孙悟空内心的着急。, Similarity: 0.0815
+2. Timeline: 0:38:18.87-0:38:26.87, Context: 巨灵神你个人机, Similarity: 0.0759
+3. Timeline: 1:46:40.08-1:46:45.08, Context: 好心疼大圣，幸好大圣内心强大, Similarity: 0.0698
+4. Timeline: 0:11:43.81-0:11:51.81, Context: 这里印象好深刻, Similarity: 0.0589
+5. Timeline: 0:27:00.72-0:27:08.72, Context: 乐器烘托的情绪绝了, Similarity: 0.0589
+6. Timeline: 1:25:02.31-1:25:10.31, Context: 暂停看仙人们, Similarity: 0.0589
+7. Timeline: 0:15:15.96-0:15:23.96, Context: 怎么就永无安宁了 哈哈哈哈, Similarity: 0.0498
+8. Timeline: 0:26:44.92-0:26:52.92, Context: 猴子是正义和自由的化身, Similarity: 0.0498
+9. Timeline: 1:42:13.90-1:42:21.90, Context: 这个房子印象深刻！, Similarity: 0.0498
+10. Timeline: 1:45:11.77-1:45:16.77, Context: 这个阴阳我太爱了家人们, Similarity: 0.0498

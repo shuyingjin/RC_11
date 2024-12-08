@@ -1,0 +1,10 @@
+1. Timeline: 0:03:27.85-0:03:35.85, Context: 把情绪可视化了, Similarity: 0.1993
+2. Timeline: 0:11:20.17-0:11:28.17, Context: 对，服务于情绪, Similarity: 0.1993
+3. Timeline: 0:11:45.39-0:11:53.39, Context: 我也觉得！情绪片, Similarity: 0.1993
+4. Timeline: 0:03:08.39-0:03:16.39, Context: 其实就是负面情绪, Similarity: 0.1891
+5. Timeline: 0:03:25.12-0:03:33.12, Context: 对应负面情绪，或者自我封闭的清晰, Similarity: 0.1758
+6. Timeline: 0:11:17.87-0:11:25.87, Context: 梦本身就是情绪啊, Similarity: 0.1545
+7. Timeline: 0:11:27.09-0:11:35.09, Context: 对！我就是被情绪打动到, Similarity: 0.1545
+8. Timeline: 0:09:57.63-0:10:02.63, Context: 大到逆天的情绪张力, Similarity: 0.1306
+9. Timeline: 0:11:14.63-0:11:19.63, Context: 赞同！和情绪同步的色彩冲击, Similarity: 0.1152
+10. Timeline: 0:03:03.34-0:03:08.34, Context: 我觉得丧气鬼应该是她的抑郁情绪, Similarity: 0.1152

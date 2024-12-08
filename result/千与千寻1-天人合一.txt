@@ -1,0 +1,10 @@
+1. Timeline: 0:26:12.73-0:26:20.73, Context: 式神的一种吧, Similarity: 0.2195
+2. Timeline: 0:27:50.29-0:27:58.29, Context: 忠诚, Similarity: 0.2195
+3. Timeline: 0:16:01.96-0:16:09.96, Context: 这女的也是人类吗, Similarity: 0.1617
+4. Timeline: 0:21:53.23-0:22:01.23, Context: 作孽的人类啊, Similarity: 0.1617
+5. Timeline: 0:50:22.63-0:50:27.63, Context: 人类之光！, Similarity: 0.1617
+6. Timeline: 0:22:08.25-0:22:16.25, Context: 身上的污秽是人类导致的，就需要人类拔除, Similarity: 0.1498
+7. Timeline: 0:40:06.14-0:40:11.14, Context: 他人笑我太疯癫, Similarity: 0.1273
+8. Timeline: 0:19:14.53-0:19:19.53, Context: 你就那么喜欢人类吗？, Similarity: 0.1254
+9. Timeline: 0:22:33.08-0:22:41.08, Context: 这就是在讽刺人类, Similarity: 0.1254
+10. Timeline: 0:00:05.94-0:00:13.94, Context: 必须出来了, Similarity: 0.1083

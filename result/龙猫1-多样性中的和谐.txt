@@ -1,0 +1,10 @@
+1. Timeline: 0:15:57.17-0:16:05.17, Context: 好喜欢, Similarity: 0.1500
+2. Timeline: 0:17:19.34-0:17:27.34, Context: 喜欢, Similarity: 0.1500
+3. Timeline: 0:17:23.44-0:17:31.44, Context: 很喜欢, Similarity: 0.1500
+4. Timeline: 0:17:29.71-0:17:37.71, Context: 喜欢！, Similarity: 0.1500
+5. Timeline: 0:17:29.88-0:17:37.88, Context: 很喜欢！, Similarity: 0.1500
+6. Timeline: 0:17:30.13-0:17:38.13, Context: 喜欢, Similarity: 0.1500
+7. Timeline: 0:17:30.52-0:17:38.52, Context: 喜欢喜欢！, Similarity: 0.1500
+8. Timeline: 0:17:30.79-0:17:38.79, Context: 喜欢, Similarity: 0.1500
+9. Timeline: 0:17:31.83-0:17:39.83, Context: 喜欢, Similarity: 0.1500
+10. Timeline: 0:17:32.01-0:17:40.01, Context: 喜欢喜欢, Similarity: 0.1500

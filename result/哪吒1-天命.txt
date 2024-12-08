@@ -1,0 +1,10 @@
+1. Timeline: 0:00:07.16-0:00:15.16, Context: 陈塘关只能有我一个吒哥, Similarity: 0.0987
+2. Timeline: 0:00:12.31-0:00:17.31, Context: 能力优秀, Similarity: 0.0851
+3. Timeline: 0:01:05.16-0:01:13.16, Context: 28 岁我还有一个劫难, Similarity: 0.0834
+4. Timeline: 0:01:07.42-0:01:15.42, Context: 陈塘关只能有一个吒，就是我哪吒！, Similarity: 0.0736
+5. Timeline: 0:01:14.22-0:01:22.22, Context: 陈唐湾的扛把子只有一个那就是我 陈哪吒, Similarity: 0.0666
+6. Timeline: 0:00:26.65-0:00:34.65, Context: 叱咤风云，我愿理想（粤语）劳资广州的桥青春, Similarity: 0.0612
+7. Timeline: 0:00:00.00-0:00:05.00, Context: 好活, Similarity: 0.0000
+8. Timeline: 0:00:00.00-0:00:08.00, Context: 吒哥，今天我们砍谁, Similarity: 0.0000
+9. Timeline: 0:00:00.04-0:00:08.04, Context: 走出六亲不认的步伐，你哪吒就是陈塘关最靓仔！！❗❗❗, Similarity: 0.0000
+10. Timeline: 0:00:00.04-0:00:08.04, Context: 走出六亲不认的步伐，你哪吒就是陈塘关最靓仔！！❗❗❗, Similarity: 0.0000

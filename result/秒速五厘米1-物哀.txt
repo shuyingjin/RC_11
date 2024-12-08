@@ -1,0 +1,10 @@
+1. Timeline: 0:00:38.21-0:00:46.21, Context: 日本樱花, Similarity: 0.2826
+2. Timeline: 0:00:58.29-0:01:06.29, Context: 樱花艹？, Similarity: 0.2641
+3. Timeline: 0:01:00.30-0:01:08.30, Context: 樱花抄？！！！！, Similarity: 0.2641
+4. Timeline: 0:01:03.79-0:01:11.79, Context: 樱花操, Similarity: 0.2641
+5. Timeline: 0:01:05.98-0:01:13.98, Context: 樱花操, Similarity: 0.2641
+6. Timeline: 0:01:10.41-0:01:18.41, Context: 樱花操, Similarity: 0.2641
+7. Timeline: 0:01:18.43-0:01:26.43, Context: 樱花抄？, Similarity: 0.2641
+8. Timeline: 0:24:06.96-0:24:14.96, Context: 我是樱花粉, Similarity: 0.2641
+9. Timeline: 0:24:55.25-0:25:03.25, Context: 樱花抄完。, Similarity: 0.2641
+10. Timeline: 0:59:49.16-0:59:54.16, Context: 撒樱花, Similarity: 0.2641

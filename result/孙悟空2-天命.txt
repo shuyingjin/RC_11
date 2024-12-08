@@ -1,0 +1,10 @@
+1. Timeline: 0:03:47.61-0:03:52.61, Context: 人话：我一个也没杀, Similarity: 0.2195
+2. Timeline: 0:01:03.02-0:01:11.02, Context: 牛，猴哥几乎单挑了，整个世界, Similarity: 0.1588
+3. Timeline: 0:02:03.70-0:02:11.70, Context: 一个齐天，一个平天, Similarity: 0.1557
+4. Timeline: 0:04:28.50-0:04:36.50, Context: 宇智波哪吒神的力量, Similarity: 0.1363
+5. Timeline: 0:00:55.44-0:01:00.44, Context: 这里留了一个“意″, Similarity: 0.1273
+6. Timeline: 0:00:13.83-0:00:21.83, Context: 这次多更了一个《未尽》, Similarity: 0.0987
+7. Timeline: 0:00:53.44-0:01:01.44, Context: 二郎神:得吃一个意根, Similarity: 0.0987
+8. Timeline: 0:03:23.77-0:03:31.77, Context: 看看看跑出来一个你去找吧, Similarity: 0.0987
+9. Timeline: 0:03:44.16-0:03:52.16, Context: 猴哥：一个没杀嗷, Similarity: 0.0987
+10. Timeline: 0:03:46.14-0:03:54.14, Context: 暗示:一个没死，都活着, Similarity: 0.0987

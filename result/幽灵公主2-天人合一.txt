@@ -1,0 +1,10 @@
+1. Timeline: 0:07:11.86-0:07:19.86, Context: 说到这里就感觉自然不是自然人类也不只是人类了, Similarity: 0.2911
+2. Timeline: 0:07:00.61-0:07:08.61, Context: 牛逼，人与自然的关系, Similarity: 0.1273
+3. Timeline: 0:05:49.88-0:05:57.88, Context: 和尚代表人类方, Similarity: 0.1254
+4. Timeline: 0:06:56.23-0:07:04.23, Context: 矛盾的对立与统一, Similarity: 0.1254
+5. Timeline: 0:11:42.68-0:11:50.68, Context: 莫娜也会人类语言的, Similarity: 0.1254
+6. Timeline: 0:14:22.48-0:14:30.48, Context: 树精在模仿人类的呢, Similarity: 0.1254
+7. Timeline: 0:18:10.92-0:18:18.92, Context: 人类-地球的肿瘤, Similarity: 0.1254
+8. Timeline: 0:18:11.37-0:18:19.37, Context: 人类真的好渺小, Similarity: 0.1254
+9. Timeline: 0:18:14.55-0:18:22.55, Context: 人类是地球之癌, Similarity: 0.1254
+10. Timeline: 0:17:59.83-0:18:07.83, Context: 我小的时候看这一幕就很不舒服，不喜欢自然里有这样的城, Similarity: 0.1196

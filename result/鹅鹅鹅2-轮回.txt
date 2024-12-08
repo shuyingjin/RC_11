@@ -1,0 +1,10 @@
+1. Timeline: 0:05:16.09-0:05:21.09, Context: 轮回眼, Similarity: 0.2597
+2. Timeline: 0:14:13.67-0:14:21.67, Context: 现在人复杂了, Similarity: 0.1844
+3. Timeline: 0:06:36.43-0:06:44.43, Context: 每个人心里都有一个人, Similarity: 0.1557
+4. Timeline: 0:08:48.82-0:08:56.82, Context: 不认同, Similarity: 0.1534
+5. Timeline: 0:03:45.69-0:03:53.69, Context: 现在的我就是这样, Similarity: 0.1429
+6. Timeline: 0:09:00.29-0:09:05.29, Context: 不不不，现在是成年阴影了, Similarity: 0.1429
+7. Timeline: 0:00:12.56-0:00:20.56, Context: 抓紧时间看，现在没有会员了!, Similarity: 0.1208
+8. Timeline: 0:03:56.68-0:04:01.68, Context: 他不在晃了，说明已经接受了欲望, Similarity: 0.1208
+9. Timeline: 0:12:39.21-0:12:47.21, Context: 每个人内心都有一个自己的旁白, Similarity: 0.1103
+10. Timeline: 0:02:28.35-0:02:36.35, Context: 真想给你的命运你改不了 你只能接受, Similarity: 0.1066
