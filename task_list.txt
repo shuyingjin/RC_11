@@ -30,5 +30,6 @@
 阴阳.txt,panda2.ass
 阴阳.txt,雾山五行1.ass
 阴阳.txt,雾山五行2.ass
-人为.txt,哪吒1.ass
-人为.txt,大闹天宫1.ass
+人为努力.txt,哪吒1.ass
+人为努力.txt,大闹天宫1.ass
+性善性恶论.txt,孙悟空1.ass
