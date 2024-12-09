@@ -1,3 +1,4 @@
+Most similar template: On Nature man must follow the law of the universe, to respect and protect the natural, to have an insight into the truth that harmony can produce all things.
 1. Timeline: 0:14:18.27-0:14:23.27, Context: Respect nature, conform to nature, protect nature, Similarity: 0.4555
 2. Timeline: 0:14:30.29-0:14:38.29, Context: Is to protect nature., Similarity: 0.3024
 3. Timeline: 0:08:39.15-0:08:47.15, Context: The billowing smoke is a symbol of man's conquest of nature which I think is a deliberate satire of man's belief that he rules nature, Similarity: 0.2824
