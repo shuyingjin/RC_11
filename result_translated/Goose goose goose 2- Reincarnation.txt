@@ -1,0 +1,10 @@
+1. Timeline: 0:05:16.09-0:05:21.09, Context: Reincarnate eye, Similarity: 0.2597
+2. Timeline: 0:14:13.67-0:14:21.67, Context: People are complicated now, Similarity: 0.1844
+3. Timeline: 0:06:36.43-0:06:44.43, Context: Everyone has a person in their heart, Similarity: 0.1557
+4. Timeline: 0:08:48.82-0:08:56.82, Context: disagree, Similarity: 0.1534
+5. Timeline: 0:03:45.69-0:03:53.69, Context: This is who I am now, Similarity: 0.1429
+6. Timeline: 0:09:00.29-0:09:05.29, Context: No, no, no. It's adult shadow now, Similarity: 0.1429
+7. Timeline: 0:00:12.56-0:00:20.56, Context: Hurry up, there are no members now!, Similarity: 0.1208
+8. Timeline: 0:03:56.68-0:04:01.68, Context: He's not moving anymore, which means he's accepted the desire, Similarity: 0.1208
+9. Timeline: 0:12:39.21-0:12:47.21, Context: Everyone has an inner voice, Similarity: 0.1103
+10. Timeline: 0:02:28.35-0:02:36.35, Context: You can't change your fate if you want to. You have to accept it, Similarity: 0.1066

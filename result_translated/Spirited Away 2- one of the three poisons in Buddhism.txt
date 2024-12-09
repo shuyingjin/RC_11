@@ -1,0 +1,10 @@
+1. Timeline: 0:04:22.68-0:04:30.68, Context: This is actually a metaphor for human greed, Similarity: 0.0886
+2. Timeline: 0:01:09.01-0:01:17.01, Context: These are monsters., Similarity: 0.0833
+3. Timeline: 0:07:19.98-0:07:27.98, Context: One theory is that Chihiro's experience of drowning caused her to have this delusion, Similarity: 0.0784
+4. Timeline: 0:07:44.24-0:07:52.24, Context: Because none of these pigs represent greed, Similarity: 0.0687
+5. Timeline: 0:01:13.14-0:01:21.14, Context: Remember the name so it doesn't disappear, Similarity: 0.0546
+6. Timeline: 0:07:18.08-0:07:26.08, Context: The most sincere emotion ah! More than love!, Similarity: 0.0546
+7. Timeline: 0:01:12.38-0:01:20.38, Context: White Dragon has always had a super gentle feeling!, Similarity: 0.0506
+8. Timeline: 0:00:24.56-0:00:32.56, Context: These foods may have been created by humans, Similarity: 0.0482
+9. Timeline: 0:07:44.91-0:07:49.91, Context: How do you see it? 1. Humans become animals that also have desires, Similarity: 0.0482
+10. Timeline: 0:00:34.91-0:00:42.91, Context: So did we. It took us three classes., Similarity: 0.0434

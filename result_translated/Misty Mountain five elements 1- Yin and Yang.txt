@@ -1,0 +1,10 @@
+1. Timeline: 0:06:44.15-0:06:52.15, Context: One Yin fire and one Yang fire, Similarity: 0.1637
+2. Timeline: 0:09:39.16-0:09:47.16, Context: One gold blows, the other fire blows, Similarity: 0.1637
+3. Timeline: 0:29:18.39-0:29:26.39, Context: The influence of the haters is still there., Similarity: 0.1571
+4. Timeline: 0:02:53.18-0:03:01.18, Context: Go a single six, Similarity: 0.1338
+5. Timeline: 0:02:53.37-0:03:01.37, Context: Go a single six, Similarity: 0.1338
+6. Timeline: 0:10:40.99-0:10:48.99, Context: A family, Similarity: 0.1338
+7. Timeline: 0:19:48.55-0:19:56.55, Context: A real eel, Similarity: 0.1338
+8. Timeline: 0:19:56.99-0:20:04.99, Context: A real Kun man, Similarity: 0.1338
+9. Timeline: 0:23:43.50-0:23:51.50, Context: Is he gonna do it all by himself?, Similarity: 0.1338
+10. Timeline: 0:26:14.58-0:26:22.58, Context: The whole world is covered, Similarity: 0.1338

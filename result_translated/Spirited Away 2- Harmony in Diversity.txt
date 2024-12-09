@@ -1,0 +1,10 @@
+1. Timeline: 0:08:53.45-0:09:01.45, Context: Sky city, Similarity: 0.2278
+2. Timeline: 0:09:33.97-0:09:41.97, Context: Sky city, Similarity: 0.2278
+3. Timeline: 0:00:15.46-0:00:23.46, Context: Like... best, Similarity: 0.1500
+4. Timeline: 0:00:16.90-0:00:24.90, Context: Like... very much, Similarity: 0.1500
+5. Timeline: 0:01:31.83-0:01:39.83, Context: favorite, Similarity: 0.1500
+6. Timeline: 0:02:36.74-0:02:44.74, Context: Super like, Similarity: 0.1500
+7. Timeline: 0:02:45.82-0:02:53.82, Context: Like you, Similarity: 0.1500
+8. Timeline: 0:08:23.08-0:08:31.08, Context: Together!, Similarity: 0.1500
+9. Timeline: 0:08:44.00-0:08:52.00, Context: Sky City is my favorite, Similarity: 0.1321
+10. Timeline: 0:08:48.64-0:08:56.64, Context: I like Sky City, Similarity: 0.1321

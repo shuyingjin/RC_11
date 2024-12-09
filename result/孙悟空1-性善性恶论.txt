@@ -1,0 +1,10 @@
+1. Timeline: 0:02:41.46-0:02:49.46, Context: 生命本就是自私的谈何善恶, Similarity: 0.1217
+2. Timeline: 0:01:59.94-0:02:04.94, Context: 小鱼都可以拿, Similarity: 0.0934
+3. Timeline: 0:02:58.15-0:03:06.15, Context: 人无善恶之分，但是欲望会无限膨胀需要秩序控制, Similarity: 0.0886
+4. Timeline: 0:03:37.38-0:03:45.38, Context: 在现实黄眉什么都不要做，也是赢了，但金蝉子也没有输，善恶共存，估计真个输赢也是一个可悲, Similarity: 0.0731
+5. Timeline: 0:00:18.07-0:00:26.07, Context: 黄眉魅力还是大啊, Similarity: 0.0724
+6. Timeline: 0:00:39.37-0:00:47.37, Context: 赢麻了的你还是年轻, Similarity: 0.0724
+7. Timeline: 0:05:09.18-0:05:17.18, Context: 日本  什么？  不可以抢, Similarity: 0.0724
+8. Timeline: 0:06:00.85-0:06:08.85, Context: 还是冯骥作的曲，厉害, Similarity: 0.0724
+9. Timeline: 0:04:38.20-0:04:46.20, Context: 人性没有绝对的善也没有绝对的恶, Similarity: 0.0616
+10. Timeline: 0:01:56.98-0:02:01.98, Context: 可以抓小鱼，不要抓大鱼啊, Similarity: 0.0612

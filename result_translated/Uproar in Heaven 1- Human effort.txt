@@ -1,0 +1,10 @@
+1. Timeline: 0:04:53.56-0:05:01.56, Context: A real monkey, Similarity: 0.0959
+2. Timeline: 0:38:18.87-0:38:26.87, Context: Giant spirit God your personal machine, Similarity: 0.0959
+3. Timeline: 1:08:41.86-1:08:49.86, Context: Real art, Similarity: 0.0959
+4. Timeline: 1:15:05.89-1:15:13.89, Context: clear your plate campaign, Similarity: 0.0959
+5. Timeline: 1:22:56.48-1:23:04.48, Context: Each takes what he needs ideal society, Similarity: 0.0743
+6. Timeline: 0:39:52.07-0:40:00.07, Context: These white fleshy feet are a hint of what's to come, Similarity: 0.0700
+7. Timeline: 0:00:10.43-0:00:18.43, Context: I found something good, Similarity: 0.0656
+8. Timeline: 1:51:10.08-1:51:18.08, Context: Challenge authority, Similarity: 0.0656
+9. Timeline: 0:23:31.47-0:23:39.47, Context: I didn't think they'd move at first, Similarity: 0.0628
+10. Timeline: 0:26:44.92-0:26:52.92, Context: Monkeys are the embodiment of justice and freedom, Similarity: 0.0628

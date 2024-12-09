@@ -1,0 +1,10 @@
+1. Timeline: 0:06:52.51-0:07:00.51, Context: Know how to control their emotions impulse desire, the master, Similarity: 0.1339
+2. Timeline: 0:07:02.44-0:07:07.44, Context: I'm not hungry = I learned, Similarity: 0.1091
+3. Timeline: 0:06:05.35-0:06:13.35, Context: Isn't that a mystery, Similarity: 0.0955
+4. Timeline: 0:01:54.72-0:02:02.72, Context: Famous words appear, Similarity: 0.0723
+5. Timeline: 0:06:29.04-0:06:34.04, Context: He will bring peace to the valley and will give you true peace of mind, Similarity: 0.0713
+6. Timeline: 0:02:57.24-0:03:05.24, Context: Soundtrack by Hans Zimmer, martial arts design by Jackie Chan, Similarity: 0.0587
+7. Timeline: 0:04:55.92-0:05:03.92, Context: This is super impressive, Similarity: 0.0561
+8. Timeline: 0:06:46.28-0:06:54.28, Context: There it is! Glow cooking!, Similarity: 0.0561
+9. Timeline: 0:01:16.10-0:01:24.10, Context: I don't think of Tai Lung, I think of Po, Similarity: 0.0557
+10. Timeline: 0:04:36.73-0:04:44.73, Context: Actually, it's not kung fu, it's how to eat. Nature learns fast, Similarity: 0.0557

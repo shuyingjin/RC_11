@@ -1,0 +1,10 @@
+1. Timeline: 0:03:04.70-0:03:12.70, Context: The implication here is that the destruction of nature by man will eventually have to be solved by himself, Similarity: 0.1459
+2. Timeline: 0:08:25.86-0:08:33.86, Context: Wrist Ho: That has to be me, Similarity: 0.1083
+3. Timeline: 0:00:24.56-0:00:32.56, Context: These foods may have been created by humans, Similarity: 0.0935
+4. Timeline: 0:03:20.90-0:03:28.90, Context: Granny Tang control others will take his real name, thousand, Chihiro, Similarity: 0.0846
+5. Timeline: 0:03:38.70-0:03:46.70, Context: Wait, isn't that river god just mocking people, Similarity: 0.0846
+6. Timeline: 0:07:50.03-0:07:58.03, Context: And the pigs here are quiet, not at all like greedy humans., Similarity: 0.0846
+7. Timeline: 0:08:05.80-0:08:13.80, Context: Unfortunately, Amber River has long been filled by human construction, Similarity: 0.0846
+8. Timeline: 0:01:20.59-0:01:28.59, Context: People who don't work hard will become pigs!, Similarity: 0.0834
+9. Timeline: 0:01:12.38-0:01:20.38, Context: White Dragon has always had a super gentle feeling!, Similarity: 0.0736
+10. Timeline: 0:03:17.72-0:03:25.72, Context: This is the best part to understand, Similarity: 0.0736

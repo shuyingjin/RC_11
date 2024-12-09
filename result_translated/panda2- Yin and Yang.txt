@@ -1,0 +1,10 @@
+1. Timeline: 0:07:22.02-0:07:30.02, Context: Yin-yang balance, Similarity: 0.3605
+2. Timeline: 0:08:01.55-0:08:09.55, Context: Caught in an infinite loop, Similarity: 0.2377
+3. Timeline: 0:07:12.61-0:07:20.61, Context: yin-yang, Similarity: 0.2308
+4. Timeline: 0:07:17.25-0:07:22.25, Context: yin-yang, Similarity: 0.2308
+5. Timeline: 0:03:56.69-0:04:04.69, Context: Panda represents black and white and Yin and Yang, Similarity: 0.1797
+6. Timeline: 0:06:22.43-0:06:27.43, Context: This philosophy is not that philosophy, Similarity: 0.1571
+7. Timeline: 0:00:25.89-0:00:33.89, Context: bushi (bushi), Similarity: 0.1338
+8. Timeline: 0:04:38.04-0:04:46.04, Context: power is missing an o, Similarity: 0.1338
+9. Timeline: 0:04:43.48-0:04:51.48, Context: The wise look inward for strength, Similarity: 0.1081
+10. Timeline: 0:00:27.39-0:00:35.39, Context: Yin and Yang interact with each other, Similarity: 0.1037

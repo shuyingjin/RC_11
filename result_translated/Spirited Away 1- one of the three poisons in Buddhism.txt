@@ -1,0 +1,10 @@
+1. Timeline: 0:20:27.52-0:20:32.52, Context: Faceless man = Greed, Similarity: 0.1810
+2. Timeline: 0:24:35.34-0:24:43.34, Context: Take advantage of greed, Similarity: 0.1810
+3. Timeline: 0:12:11.00-0:12:19.00, Context: Miyazato knows too much about human nature, Similarity: 0.1719
+4. Timeline: 0:25:25.66-0:25:33.66, Context: Desire itself is tainted with human nature, and will be devoured by desire, Similarity: 0.1669
+5. Timeline: 0:24:45.21-0:24:53.21, Context: I think it's the soul of endless greed, Similarity: 0.1605
+6. Timeline: 0:26:12.73-0:26:20.73, Context: It's a kind of god, Similarity: 0.1508
+7. Timeline: 0:24:37.52-0:24:45.52, Context: desire, Similarity: 0.1437
+8. Timeline: 0:26:41.68-0:26:49.68, Context: desire, Similarity: 0.1437
+9. Timeline: 0:26:59.14-0:27:07.14, Context: Desire Bar, Similarity: 0.1437
+10. Timeline: 0:27:02.81-0:27:10.81, Context: desire, Similarity: 0.1437

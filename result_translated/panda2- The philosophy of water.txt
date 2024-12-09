@@ -1,0 +1,10 @@
+1. Timeline: 0:07:00.77-0:07:08.77, Context: Human's essential attribute is social attribute, Similarity: 0.3396
+2. Timeline: 0:06:22.43-0:06:27.43, Context: This philosophy is not that philosophy, Similarity: 0.2339
+3. Timeline: 0:00:34.75-0:00:42.75, Context: You can vote for two, Similarity: 0.2105
+4. Timeline: 0:00:58.53-0:01:06.53, Context: Subtitles are OK, Similarity: 0.2105
+5. Timeline: 0:02:12.59-0:02:20.59, Context: This could be a trailer, Similarity: 0.2105
+6. Timeline: 0:06:04.69-0:06:12.69, Context: It's a good cut, Similarity: 0.2105
+7. Timeline: 0:02:58.96-0:03:06.96, Context: Is that philosophy, Similarity: 0.1356
+8. Timeline: 0:06:58.36-0:07:06.36, Context: It's all philosophical, Similarity: 0.1356
+9. Timeline: 0:06:16.91-0:06:24.91, Context: I just want to know how you will show the core of the Chinese spirit?, Similarity: 0.1244
+10. Timeline: 0:02:39.35-0:02:47.35, Context: The past is irrevocable, the future can be changed, Similarity: 0.1217

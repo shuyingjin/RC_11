@@ -1,0 +1,10 @@
+1. Timeline: 0:07:15.24-0:07:23.24, Context: may, Similarity: 0.3631
+2. Timeline: 0:07:37.58-0:07:45.58, Context: I can return it, Similarity: 0.3631
+3. Timeline: 0:07:35.58-0:07:40.58, Context: Okay, I don't understand, Similarity: 0.2105
+4. Timeline: 0:01:12.00-0:01:20.00, Context: Should be to admire life, respect life, and their own life, Similarity: 0.1615
+5. Timeline: 0:14:20.92-0:14:28.92, Context: It feels like the movie is more about philosophy,, Similarity: 0.1448
+6. Timeline: 0:10:14.11-0:10:22.11, Context: If you don't understand, you can try to watch it several times, Similarity: 0.1380
+7. Timeline: 0:20:36.79-0:20:44.79, Context: If only her Mandarin were better, Similarity: 0.1380
+8. Timeline: 0:01:44.94-0:01:52.94, Context: Origin of life, Similarity: 0.1356
+9. Timeline: 0:08:21.27-0:08:29.27, Context: In other words, if there were no existence to observe the universe, then the universe could not be born, which is equivalent to you dying and never seeing the world, but for you the world does not exist?, Similarity: 0.1244
+10. Timeline: 0:11:57.11-0:12:05.11, Context: So a whale can understand? Contrast and comparison, Similarity: 0.1217

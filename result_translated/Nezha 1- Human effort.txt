@@ -1,0 +1,10 @@
+1. Timeline: 0:00:23.62-0:00:31.62, Context: Good society, Similarity: 0.1654
+2. Timeline: 0:00:30.82-0:00:38.82, Context: Social people!, Similarity: 0.1654
+3. Timeline: 0:00:24.32-0:00:32.32, Context: I am a big brother in society, Similarity: 0.0959
+4. Timeline: 0:00:29.38-0:00:37.38, Context: I am a big brother in society, Similarity: 0.0959
+5. Timeline: 0:00:37.10-0:00:45.10, Context: I am a big brother in society, Similarity: 0.0959
+6. Timeline: 0:00:44.93-0:00:52.93, Context: I am a big brother in society, Similarity: 0.0959
+7. Timeline: 0:00:53.08-0:01:01.08, Context: Social I slag brother, Similarity: 0.0959
+8. Timeline: 0:00:53.83-0:01:01.83, Context: I am a big brother in society, Similarity: 0.0959
+9. Timeline: 0:00:54.38-0:01:02.38, Context: Society you are a big brother, Similarity: 0.0959
+10. Timeline: 0:00:55.82-0:01:00.82, Context: I am a big brother in society, Similarity: 0.0959

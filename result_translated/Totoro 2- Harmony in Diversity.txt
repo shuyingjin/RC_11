@@ -1,0 +1,10 @@
+1. Timeline: 0:06:55.66-0:07:03.66, Context: Elves, children's naive imagination of nature, Similarity: 0.1545
+2. Timeline: 0:15:45.64-0:15:53.64, Context: Like... very much, Similarity: 0.1500
+3. Timeline: 0:13:19.47-0:13:27.47, Context: Traditional riding, Similarity: 0.1394
+4. Timeline: 0:19:41.50-0:19:49.50, Context: Give a thumbs up, Similarity: 0.1118
+5. Timeline: 0:15:58.08-0:16:03.08, Context: Sky City yyds, Similarity: 0.1024
+6. Timeline: 0:00:26.36-0:00:34.36, Context: Favorite this one, Similarity: 0.0869
+7. Timeline: 0:05:47.82-0:05:55.82, Context: I love this part so much, Similarity: 0.0869
+8. Timeline: 0:17:03.23-0:17:11.23, Context: I love Xiao Mei, Similarity: 0.0869
+9. Timeline: 0:00:32.71-0:00:40.71, Context: bgm is Sky City? That sounds familiar, Similarity: 0.0866
+10. Timeline: 0:15:56.86-0:16:04.86, Context: Not as deep as Sky City, Similarity: 0.0866

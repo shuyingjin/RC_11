@@ -1,0 +1,10 @@
+1. Timeline: 0:00:06.03-0:00:14.03, Context: What did I find?, Similarity: 0.2597
+2. Timeline: 0:40:15.80-0:40:23.80, Context: So sad to say, Similarity: 0.2597
+3. Timeline: 0:36:29.26-0:36:37.26, Context: Human!!, Similarity: 0.1936
+4. Timeline: 0:36:36.63-0:36:44.63, Context: That's human! I wipe, Similarity: 0.1936
+5. Timeline: 0:00:01.56-0:00:09.56, Context: See what I found, Similarity: 0.1506
+6. Timeline: 0:00:03.49-0:00:11.49, Context: See what I found, Similarity: 0.1506
+7. Timeline: 0:00:20.76-0:00:28.76, Context: Come in pain, Similarity: 0.1506
+8. Timeline: 0:11:15.01-0:11:23.01, Context: You got it, kid, Similarity: 0.1506
+9. Timeline: 0:28:28.80-0:28:33.80, Context: No matter autumn, no matter winter, no matter spring, Similarity: 0.1403
+10. Timeline: 0:03:47.24-0:03:52.24, Context: By man Isn't the brother human?, Similarity: 0.1373

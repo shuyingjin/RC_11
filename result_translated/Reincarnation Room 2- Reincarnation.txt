@@ -1,0 +1,10 @@
+1. Timeline: 0:11:44.96-0:11:52.96, Context: I'm also one flower short, Similarity: 0.1534
+2. Timeline: 0:22:38.96-0:22:46.96, Context: I can't turn it around, Similarity: 0.1534
+3. Timeline: 0:18:50.00-0:18:58.00, Context: Match in the present, Similarity: 0.1429
+4. Timeline: 0:17:25.58-0:17:30.58, Context: If you put worms on eggs... Kun Kun!, Similarity: 0.1338
+5. Timeline: 0:08:47.56-0:08:55.56, Context: Each shape has a triangle, Similarity: 0.1273
+6. Timeline: 0:16:44.15-0:16:52.15, Context: Spot the Difference, Similarity: 0.1268
+7. Timeline: 0:02:54.57-0:03:02.57, Context: Let me try them one by one, Similarity: 0.1255
+8. Timeline: 0:08:26.79-0:08:34.79, Context: I was sliding out one by one, Similarity: 0.1255
+9. Timeline: 0:14:23.35-0:14:31.35, Context: Each room has a symbol in the mirror for a species, Similarity: 0.1207
+10. Timeline: 0:03:27.40-0:03:35.40, Context: I'm trying this bubble one by one, Similarity: 0.1088

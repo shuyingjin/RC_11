@@ -1,0 +1,10 @@
+1. Timeline: 0:02:41.46-0:02:49.46, Context: Life is a selfish thing about good and evil, Similarity: 0.1217
+2. Timeline: 0:01:59.94-0:02:04.94, Context: Any small fish can take it, Similarity: 0.0934
+3. Timeline: 0:02:58.15-0:03:06.15, Context: There is no good or evil, but there is an infinite expansion of desire that requires order and control, Similarity: 0.0886
+4. Timeline: 0:03:37.38-0:03:45.38, Context: In reality, Huang Mei do not do anything, but also win, but Jin Cicada did not lose, good and evil coexist, it is estimated that the real win or lose is also a sad, Similarity: 0.0731
+5. Timeline: 0:00:18.07-0:00:26.07, Context: There's still a lot of charm in yellow eyebrows, Similarity: 0.0724
+6. Timeline: 0:00:39.37-0:00:47.37, Context: You're still young when you're numb, Similarity: 0.0724
+7. Timeline: 0:05:09.18-0:05:17.18, Context: Japan what? Not to rob, Similarity: 0.0724
+8. Timeline: 0:06:00.85-0:06:08.85, Context: Feng Ji also composed the song, impressive, Similarity: 0.0724
+9. Timeline: 0:04:38.20-0:04:46.20, Context: There is neither absolute good nor absolute evil in human nature, Similarity: 0.0616
+10. Timeline: 0:01:56.98-0:02:01.98, Context: You can catch small fish, not big fish, Similarity: 0.0612

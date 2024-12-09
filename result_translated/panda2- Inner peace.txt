@@ -1,0 +1,10 @@
+1. Timeline: 0:02:50.94-0:02:58.94, Context: surmount, Similarity: 0.1091
+2. Timeline: 0:04:39.37-0:04:47.37, Context: What is missing is not money, but heart, Similarity: 0.0955
+3. Timeline: 0:04:31.48-0:04:39.48, Context: China has good movement, but the competition can not be lacuna chicken, such is the social environment, Similarity: 0.0913
+4. Timeline: 0:00:39.00-0:00:47.00, Context: Lord Shen in a wet state, Similarity: 0.0870
+5. Timeline: 0:07:46.24-0:07:54.24, Context: Be mentally strong and don't let evil thoughts get in the way of mindfulness, Similarity: 0.0856
+6. Timeline: 0:07:13.37-0:07:21.37, Context: People often encounter fate on the way to avoid it, Similarity: 0.0775
+7. Timeline: 0:02:03.02-0:02:11.02, Context: The environment of domestic films is that bad money drives out good money, Similarity: 0.0729
+8. Timeline: 0:07:13.96-0:07:21.96, Context: Tai Chi appeared!, Similarity: 0.0723
+9. Timeline: 0:03:19.05-0:03:27.05, Context: The answer to your question is within yourself. There is no secret book, Similarity: 0.0713
+10. Timeline: 0:05:26.29-0:05:34.29, Context: "Sometimes you have to run before you can walk.", Similarity: 0.0693

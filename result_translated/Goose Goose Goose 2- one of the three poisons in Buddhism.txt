@@ -1,0 +1,10 @@
+1. Timeline: 0:06:04.63-0:06:12.63, Context: That's human nature., Similarity: 0.1719
+2. Timeline: 0:02:58.50-0:03:06.50, Context: Desire, Similarity: 0.1437
+3. Timeline: 0:03:53.65-0:04:01.65, Context: Desire??, Similarity: 0.1437
+4. Timeline: 0:03:57.61-0:04:05.61, Context: Desire saved him??, Similarity: 0.1437
+5. Timeline: 0:04:00.78-0:04:05.78, Context: Desire saved him?, Similarity: 0.1437
+6. Timeline: 0:04:09.88-0:04:17.88, Context: The original intention is gone, Similarity: 0.1437
+7. Timeline: 0:04:56.71-0:05:04.71, Context: Desire, desire, desire, Similarity: 0.1437
+8. Timeline: 0:05:39.74-0:05:44.74, Context: Your desires (dreams), Similarity: 0.1437
+9. Timeline: 0:10:04.35-0:10:12.35, Context: People have desires, Similarity: 0.1437
+10. Timeline: 0:15:55.67-0:16:03.67, Context: Mount Desire, Similarity: 0.1437

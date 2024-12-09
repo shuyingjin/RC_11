@@ -1,0 +1,10 @@
+1. Timeline: 1:37:50.19-1:37:58.19, Context: Bangzi sound urgent, set off Sun Wukong's inner worry., Similarity: 0.0815
+2. Timeline: 0:38:18.87-0:38:26.87, Context: Giant spirit God your personal machine, Similarity: 0.0759
+3. Timeline: 1:46:40.08-1:46:45.08, Context: I feel bad about Monkey King. Fortunately, Monkey King has a strong heart, Similarity: 0.0698
+4. Timeline: 0:11:43.81-0:11:51.81, Context: This place is very impressive, Similarity: 0.0589
+5. Timeline: 0:27:00.72-0:27:08.72, Context: The instrument set off the mood, Similarity: 0.0589
+6. Timeline: 1:25:02.31-1:25:10.31, Context: Pause for the fairies, Similarity: 0.0589
+7. Timeline: 0:15:15.96-0:15:23.96, Context: Why can't there ever be peace, Similarity: 0.0498
+8. Timeline: 0:26:44.92-0:26:52.92, Context: Monkeys are the embodiment of justice and freedom, Similarity: 0.0498
+9. Timeline: 1:42:13.90-1:42:21.90, Context: This house is impressive!, Similarity: 0.0498
+10. Timeline: 1:45:11.77-1:45:16.77, Context: I love my family so much, Similarity: 0.0498

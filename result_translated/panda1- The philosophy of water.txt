@@ -1,0 +1,10 @@
+1. Timeline: 0:05:16.21-0:05:24.21, Context: You can eat it. I didn't say no, Similarity: 0.3631
+2. Timeline: 0:04:35.84-0:04:43.84, Context: Chinese Wuxia world, Similarity: 0.2151
+3. Timeline: 0:05:27.41-0:05:32.41, Context: "You can start.", Similarity: 0.2105
+4. Timeline: 0:05:52.84-0:06:00.84, Context: But you can eat eggs, Similarity: 0.2105
+5. Timeline: 0:04:14.54-0:04:22.54, Context: This is a good time to fight back, Similarity: 0.1380
+6. Timeline: 0:05:26.98-0:05:34.98, Context: You can even call it that with the stuffing, Similarity: 0.1380
+7. Timeline: 0:05:29.38-0:05:37.38, Context: Practice to master's realm, one can eat less. Second, you can also eat more, even if you eat more, it will be completely consumed and will not become fat., Similarity: 0.1380
+8. Timeline: 0:05:31.78-0:05:39.78, Context: This translation can. It's interesting, Similarity: 0.1380
+9. Timeline: 0:06:55.41-0:07:03.41, Context: The Dragon Warrior can rely on the dew, Similarity: 0.1380
+10. Timeline: 0:01:55.21-0:02:03.21, Context: Existence is reasonable, Similarity: 0.1216

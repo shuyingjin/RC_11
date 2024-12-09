@@ -1,0 +1,10 @@
+1. Timeline: 0:01:37.82-0:01:45.82, Context: The power of foodies, Similarity: 0.1394
+2. Timeline: 0:04:44.87-0:04:52.87, Context: Bear strength and speed again, Similarity: 0.1394
+3. Timeline: 0:05:29.50-0:05:37.50, Context: The power of foodies, Similarity: 0.1394
+4. Timeline: 0:04:15.81-0:04:23.81, Context: How important is a good teacher, Similarity: 0.1037
+5. Timeline: 0:06:03.61-0:06:11.61, Context: It's not gonna be enough to plug your teeth, Similarity: 0.1037
+6. Timeline: 0:05:49.56-0:05:57.56, Context: Master, this change in shape..., Similarity: 0.0943
+7. Timeline: 0:02:28.63-0:02:36.63, Context: There's more than one cauliflower now, Similarity: 0.0877
+8. Timeline: 0:04:56.20-0:05:04.20, Context: What does it mean to know the United States better than China, know that this is a Chinese martial arts director?, Similarity: 0.0844
+9. Timeline: 0:00:28.40-0:00:36.40, Context: A red panda and a raccoon are not the same thing!, Similarity: 0.0773
+10. Timeline: 0:05:04.28-0:05:12.28, Context: Do you have to shoot a film for years?, Similarity: 0.0773

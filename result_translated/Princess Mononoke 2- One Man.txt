@@ -1,0 +1,10 @@
+1. Timeline: 0:07:11.86-0:07:19.86, Context: At this point, it feels like nature is not nature and humans are not just humans, Similarity: 0.2911
+2. Timeline: 0:07:00.61-0:07:08.61, Context: Awesome. The relationship between man and nature, Similarity: 0.1273
+3. Timeline: 0:05:49.88-0:05:57.88, Context: The monk represents the human side, Similarity: 0.1254
+4. Timeline: 0:06:56.23-0:07:04.23, Context: Contradiction and unity, Similarity: 0.1254
+5. Timeline: 0:11:42.68-0:11:50.68, Context: Mona speaks human language, too, Similarity: 0.1254
+6. Timeline: 0:14:22.48-0:14:30.48, Context: The tree spirit is imitating the human one, Similarity: 0.1254
+7. Timeline: 0:18:10.92-0:18:18.92, Context: Human - Tumor of the Earth, Similarity: 0.1254
+8. Timeline: 0:18:11.37-0:18:19.37, Context: Humans are so small, Similarity: 0.1254
+9. Timeline: 0:18:14.55-0:18:22.55, Context: Man is the cancer of the earth, Similarity: 0.1254
+10. Timeline: 0:17:59.83-0:18:07.83, Context: When I was a child, I was very uncomfortable watching this scene, and I did not like such a city in nature, Similarity: 0.1196

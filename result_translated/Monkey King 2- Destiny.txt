@@ -1,0 +1,10 @@
+1. Timeline: 0:03:47.61-0:03:52.61, Context: Man: I didn't kill anyone, Similarity: 0.2195
+2. Timeline: 0:01:03.02-0:01:11.02, Context: Bull, Monkey King almost single-handedly took on the whole world, Similarity: 0.1588
+3. Timeline: 0:02:03.70-0:02:11.70, Context: One is equal and one is flat, Similarity: 0.1557
+4. Timeline: 0:04:28.50-0:04:36.50, Context: Uzha the power of Nezha, Similarity: 0.1363
+5. Timeline: 0:00:55.44-0:01:00.44, Context: There is a "meaning" left here., Similarity: 0.1273
+6. Timeline: 0:00:13.83-0:00:21.83, Context: This time there's an extra "Not done.", Similarity: 0.0987
+7. Timeline: 0:00:53.44-0:01:01.44, Context: Erlang God: You have to eat a meaning root, Similarity: 0.0987
+8. Timeline: 0:03:23.77-0:03:31.77, Context: Look, there's one out there. Go find it, Similarity: 0.0987
+9. Timeline: 0:03:44.16-0:03:52.16, Context: Monkey King: One did not kill ow, Similarity: 0.0987
+10. Timeline: 0:03:46.14-0:03:54.14, Context: Implication: One is not dead, all are alive, Similarity: 0.0987

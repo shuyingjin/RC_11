@@ -1,0 +1,10 @@
+1. Timeline: 0:03:27.85-0:03:35.85, Context: Visualizing emotions, Similarity: 0.1993
+2. Timeline: 0:11:20.17-0:11:28.17, Context: Yes, to serve the emotions, Similarity: 0.1993
+3. Timeline: 0:11:45.39-0:11:53.39, Context: I think so too! Mood film, Similarity: 0.1993
+4. Timeline: 0:03:08.39-0:03:16.39, Context: It's just negative emotions, Similarity: 0.1891
+5. Timeline: 0:03:25.12-0:03:33.12, Context: Clarity in response to negative emotions, or self-containment, Similarity: 0.1758
+6. Timeline: 0:11:17.87-0:11:25.87, Context: Dreams are emotions, Similarity: 0.1545
+7. Timeline: 0:11:27.09-0:11:35.09, Context: Yes! I just get emotional, Similarity: 0.1545
+8. Timeline: 0:09:57.63-0:10:02.63, Context: The emotional tension is overwhelming, Similarity: 0.1306
+9. Timeline: 0:11:14.63-0:11:19.63, Context: I agree! Color shock in sync with mood, Similarity: 0.1152
+10. Timeline: 0:03:03.34-0:03:08.34, Context: I think it's her depression, Similarity: 0.1152

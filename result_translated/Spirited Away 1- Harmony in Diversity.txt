@@ -1,0 +1,10 @@
+1. Timeline: 0:01:51.74-0:01:59.74, Context: I love Sky City, Similarity: 0.2278
+2. Timeline: 0:38:41.02-0:38:49.02, Context: Sky city, Similarity: 0.2278
+3. Timeline: 0:00:39.14-0:00:47.14, Context: Love growth responsibility, Similarity: 0.1591
+4. Timeline: 0:00:43.54-0:00:48.54, Context: I don't like, Similarity: 0.1500
+5. Timeline: 0:00:50.24-0:00:58.24, Context: Who cares if you don't like it, Similarity: 0.1500
+6. Timeline: 0:00:50.62-0:00:58.62, Context: I don't like it either, Similarity: 0.1500
+7. Timeline: 0:44:21.93-0:44:29.93, Context: It's a very traditional routine, Similarity: 0.1394
+8. Timeline: 0:00:45.75-0:00:53.75, Context: Sky City, Princess Mononoke's favorite, Similarity: 0.1321
+9. Timeline: 0:00:46.60-0:00:54.60, Context: I like Sky City, Similarity: 0.1321
+10. Timeline: 0:01:10.35-0:01:18.35, Context: City in the sky, Similarity: 0.1321

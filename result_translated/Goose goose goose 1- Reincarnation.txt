@@ -1,0 +1,10 @@
+1. Timeline: 0:06:52.96-0:07:00.96, Context: Reincarnate eye, Similarity: 0.2597
+2. Timeline: 0:07:17.11-0:07:25.11, Context: Reincarnate eye, Similarity: 0.2597
+3. Timeline: 0:07:17.28-0:07:25.28, Context: Reincarnate eye, Similarity: 0.2597
+4. Timeline: 0:07:19.40-0:07:27.40, Context: Reincarnate eye, Similarity: 0.2597
+5. Timeline: 0:13:18.11-0:13:26.11, Context: Loop, Similarity: 0.2597
+6. Timeline: 0:01:16.00-0:01:24.00, Context: I'm holding a goose right now, Similarity: 0.1844
+7. Timeline: 0:02:26.25-0:02:34.25, Context: The Courier now, Similarity: 0.1844
+8. Timeline: 0:10:43.60-0:10:51.60, Context: Take the goose slip now, Similarity: 0.1844
+9. Timeline: 0:10:53.59-0:11:01.59, Context: It's all right now, four corners, Similarity: 0.1844
+10. Timeline: 0:14:46.49-0:14:54.49, Context: And now, the dream woke up, Similarity: 0.1844

@@ -1,0 +1,10 @@
+1. Timeline: 0:14:18.27-0:14:23.27, Context: Respect nature, conform to nature, protect nature, Similarity: 0.4555
+2. Timeline: 0:14:30.29-0:14:38.29, Context: Is to protect nature., Similarity: 0.3024
+3. Timeline: 0:08:39.15-0:08:47.15, Context: The billowing smoke is a symbol of man's conquest of nature which I think is a deliberate satire of man's belief that he rules nature, Similarity: 0.2824
+4. Timeline: 0:14:10.28-0:14:18.28, Context: Harmony between nature and man, Similarity: 0.2789
+5. Timeline: 0:09:47.07-0:09:55.07, Context: Man now has no ability to conquer nature and must live in peace with nature, Similarity: 0.2606
+6. Timeline: 0:18:22.30-0:18:27.30, Context: Man can resist nature, but man can not not fear nature, Similarity: 0.2484
+7. Timeline: 0:18:42.30-0:18:50.30, Context: Humans will die out, nature won't, Similarity: 0.2379
+8. Timeline: 0:18:45.82-0:18:53.82, Context: Thank nature for forgiving man, Similarity: 0.2379
+9. Timeline: 0:05:06.41-0:05:14.41, Context: Industry and nature, Similarity: 0.2286
+10. Timeline: 0:08:49.11-0:08:54.11, Context: It is also very Qi Yuan, people are born from nature, the development of technology is also used in nature, but the nature to destroy @ (~ - ~) @, Similarity: 0.2286

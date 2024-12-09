@@ -1,0 +1,10 @@
+1. Timeline: 0:00:07.16-0:00:15.16, Context: Chen Tang Guan can only have a Zha brother, Similarity: 0.0987
+2. Timeline: 0:00:12.31-0:00:17.31, Context: Excellent ability, Similarity: 0.0851
+3. Timeline: 0:01:05.16-0:01:13.16, Context: At 28, I have another catastrophe, Similarity: 0.0834
+4. Timeline: 0:01:07.42-0:01:15.42, Context: There can only be one Zha in Chen Tang Guan, that is, I Nezha!, Similarity: 0.0736
+5. Timeline: 0:01:14.22-0:01:22.22, Context: There is only one bearer of Chen Tang Bay that is I Chen Nezha, Similarity: 0.0666
+6. Timeline: 0:00:26.65-0:00:34.65, Context: All-powerful, I would like to ideal (Cantonese) labor Guangzhou bridge youth, Similarity: 0.0612
+7. Timeline: 0:00:00.00-0:00:05.00, Context: A piece of work, Similarity: 0.0000
+8. Timeline: 0:00:00.00-0:00:08.00, Context: Brother Zha, who are we going to cut today, Similarity: 0.0000
+9. Timeline: 0:00:00.04-0:00:08.04, Context: Out of the six relatives do not recognize the pace, you Nezha is Chen Tang Pass the most beautiful boy!! ❗ ❗ ❗, Similarity: 0.0000
+10. Timeline: 0:00:00.04-0:00:08.04, Context: Out of the six relatives do not recognize the pace, you Nezha is Chen Tang Pass the most beautiful boy!! ❗ ❗ ❗, Similarity: 0.0000
