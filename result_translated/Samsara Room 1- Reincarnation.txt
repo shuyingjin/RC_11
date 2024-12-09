@@ -1,3 +1,4 @@
+Most similar template: This is known as the Wheel of Samsara which pictorially depicts the endless cycle of suffering continually flowing through our life in the past, present and future, leading to endless births, deaths and rebirths through various realms (mind-states) for all forms of life.  
 1. Timeline: 0:00:10.95-0:00:15.95, Context: Is this the circle of life?, Similarity: 0.2695
 2. Timeline: 0:11:31.03-0:11:39.03, Context: Now the card is off..., Similarity: 0.1844
 3. Timeline: 0:05:11.71-0:05:16.71, Context: Book: The Circle of Life by Rose Vanderboom (Albert's Daughter), Similarity: 0.1708
