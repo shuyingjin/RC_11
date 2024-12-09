@@ -1,3 +1,4 @@
+Most similar template: 过程的概念、开放性、阴阳思维的优先性、和谐的概念、超越性与内在性的统一。
 1. Timeline: 0:06:55.66-0:07:03.66, Context: 精灵，孩童对自然的天真想象, Similarity: 0.1545
 2. Timeline: 0:15:45.64-0:15:53.64, Context: 好喜欢, Similarity: 0.1500
 3. Timeline: 0:13:19.47-0:13:27.47, Context: 传统骑法, Similarity: 0.1394

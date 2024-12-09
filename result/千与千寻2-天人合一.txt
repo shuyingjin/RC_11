@@ -1,3 +1,4 @@
+Most similar template: 在自然层面，人必须遵循宇宙法则，尊重并保护自然，洞察“和谐万物生”的真理。
 1. Timeline: 0:03:04.70-0:03:12.70, Context: 这里寓意 人类破坏的自然  终究需要自己来解决, Similarity: 0.1459
 2. Timeline: 0:08:25.86-0:08:33.86, Context: 腕豪：那必须是我啦, Similarity: 0.1083
 3. Timeline: 0:00:24.56-0:00:32.56, Context: 这些美食可能就是人类变的, Similarity: 0.0935

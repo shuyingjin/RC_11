@@ -1,3 +1,4 @@
+Most similar template: 世界上的一切皆非永久存在，美好或痛苦的事物都终将消逝。有人认为日本人特别擅长在这些无尽的变化中发现美，而他们对樱花的喜爱便是证明——樱花绽放一周便迅速在风中凋零。
 1. Timeline: 0:00:06.03-0:00:14.03, Context: 我发现了啥？, Similarity: 0.2597
 2. Timeline: 0:40:15.80-0:40:23.80, Context: 好悲伤的说, Similarity: 0.2597
 3. Timeline: 0:36:29.26-0:36:37.26, Context: 人类！！, Similarity: 0.1936

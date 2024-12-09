@@ -1,3 +1,4 @@
+Most similar template: 轮回之轮象征着无尽的痛苦循环，这种循环在我们的过去、现在与未来的生命中持续流动，导致各种生命形式在不同境界（心理状态）中的无数次生死轮回。
 1. Timeline: 0:11:44.96-0:11:52.96, Context: 我也少一个花, Similarity: 0.1534
 2. Timeline: 0:22:38.96-0:22:46.96, Context: 转不过去了呢, Similarity: 0.1534
 3. Timeline: 0:18:50.00-0:18:58.00, Context: 火柴用到现在, Similarity: 0.1429

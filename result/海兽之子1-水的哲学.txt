@@ -1,3 +1,4 @@
+Most similar template: 水的特性影响着生命哲学的主要形式和基本主张。尤其是水的形态可以是虚幻的（如水雾）或真实的，其状态可以是动态或静态，感觉可以是柔软或坚硬，其形象能够直接代表生命哲学的深度。
 1. Timeline: 0:07:15.24-0:07:23.24, Context: 可以, Similarity: 0.3631
 2. Timeline: 0:07:37.58-0:07:45.58, Context: 我可以退了, Similarity: 0.3631
 3. Timeline: 0:07:35.58-0:07:40.58, Context: 可以，我听不懂了, Similarity: 0.2105

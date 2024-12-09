@@ -1,3 +1,4 @@
+Most similar template: 阴阳是中国哲学中的两个互补原则：阴为消极、黑暗、女性；阳为积极、明亮、男性。两者的相互作用维持了宇宙的和谐，并影响万物。
 1. Timeline: 0:06:44.15-0:06:52.15, Context: 一个阴火一个阳火, Similarity: 0.1637
 2. Timeline: 0:09:39.16-0:09:47.16, Context: 一个金吹，一个火吹, Similarity: 0.1637
 3. Timeline: 0:29:18.39-0:29:26.39, Context: 嗔兽的影响还在。, Similarity: 0.1571

@@ -1,3 +1,4 @@
+Most similar template: 过程的概念、开放性、阴阳思维的优先性、和谐的概念、超越性与内在性的统一。
 1. Timeline: 0:01:51.74-0:01:59.74, Context: 我最爱天空之城, Similarity: 0.2278
 2. Timeline: 0:38:41.02-0:38:49.02, Context: 天空之城, Similarity: 0.2278
 3. Timeline: 0:00:39.14-0:00:47.14, Context: 爱 成长 责任, Similarity: 0.1591

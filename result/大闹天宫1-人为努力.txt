@@ -1,3 +1,4 @@
+Most similar template: 人类必须有意识地遵循天地人之间的发展与运行规律，积极应对人类面临的挑战，不断探索解决这些问题的方法与途径，才能为人类的可持续发展找到适合的捷径，避免走向末日的深渊。
 1. Timeline: 0:04:53.56-0:05:01.56, Context: 真正的耍猴, Similarity: 0.0959
 2. Timeline: 0:38:18.87-0:38:26.87, Context: 巨灵神你个人机, Similarity: 0.0959
 3. Timeline: 1:08:41.86-1:08:49.86, Context: 真正的艺术, Similarity: 0.0959

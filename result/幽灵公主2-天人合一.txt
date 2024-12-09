@@ -1,3 +1,4 @@
+Most similar template: 在自然层面，人必须遵循宇宙法则，尊重并保护自然，洞察“和谐万物生”的真理。
 1. Timeline: 0:07:11.86-0:07:19.86, Context: 说到这里就感觉自然不是自然人类也不只是人类了, Similarity: 0.2911
 2. Timeline: 0:07:00.61-0:07:08.61, Context: 牛逼，人与自然的关系, Similarity: 0.1273
 3. Timeline: 0:05:49.88-0:05:57.88, Context: 和尚代表人类方, Similarity: 0.1254

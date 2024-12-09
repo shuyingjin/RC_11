@@ -1,3 +1,4 @@
+Most similar template: 在自然层面，人必须遵循宇宙法则，尊重并保护自然，洞察“和谐万物生”的真理。
 1. Timeline: 0:26:12.73-0:26:20.73, Context: 式神的一种吧, Similarity: 0.2195
 2. Timeline: 0:27:50.29-0:27:58.29, Context: 忠诚, Similarity: 0.2195
 3. Timeline: 0:16:01.96-0:16:09.96, Context: 这女的也是人类吗, Similarity: 0.1617

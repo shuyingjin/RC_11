@@ -1,3 +1,4 @@
+Most similar template: 无论是善行还是恶行，心总是意识到其自身的行为。因此，可以说，无论心朝向善或恶，它都能意识到其行为的善与恶。
 1. Timeline: 0:02:41.46-0:02:49.46, Context: 生命本就是自私的谈何善恶, Similarity: 0.1217
 2. Timeline: 0:01:59.94-0:02:04.94, Context: 小鱼都可以拿, Similarity: 0.0934
 3. Timeline: 0:02:58.15-0:03:06.15, Context: 人无善恶之分，但是欲望会无限膨胀需要秩序控制, Similarity: 0.0886
