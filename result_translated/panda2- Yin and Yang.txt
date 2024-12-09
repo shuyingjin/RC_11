@@ -1,3 +1,4 @@
+Most similar template: Two complementary principles of Chinese philosophy: Yin is negative, dark, and feminine. Yang is positive, bright, and masculine. Their interaction is thought to maintain the harmony of the universe and to influence everything within it.
 1. Timeline: 0:07:22.02-0:07:30.02, Context: Yin-yang balance, Similarity: 0.3605
 2. Timeline: 0:08:01.55-0:08:09.55, Context: Caught in an infinite loop, Similarity: 0.2377
 3. Timeline: 0:07:12.61-0:07:20.61, Context: yin-yang, Similarity: 0.2308
