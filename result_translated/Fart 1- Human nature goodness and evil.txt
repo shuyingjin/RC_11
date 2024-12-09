@@ -1,3 +1,4 @@
+Most similar template: The mind is always conscious of its own operations, whether good or evil. Therefore, it can be said that, whenever the mind acts toward good or evil, it is conscious of the goodness or evil of its activities.
 1. Timeline: 0:02:41.46-0:02:49.46, Context: Life is a selfish thing about good and evil, Similarity: 0.1217
 2. Timeline: 0:01:59.94-0:02:04.94, Context: Any small fish can take it, Similarity: 0.0934
 3. Timeline: 0:02:58.15-0:03:06.15, Context: There is no good or evil, but there is an infinite expansion of desire that requires order and control, Similarity: 0.0886
