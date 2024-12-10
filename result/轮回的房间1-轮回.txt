@@ -1,11 +1,11 @@
-Most similar template: 轮回之轮象征着无尽的痛苦循环，这种循环在我们的过去、现在与未来的生命中持续流动，导致各种生命形式在不同境界（心理状态）中的无数次生死轮回。
-1. Timeline: 0:00:10.95-0:00:15.95, Context: 这是生命的轮回吗？, Similarity: 0.2695
-2. Timeline: 0:11:31.03-0:11:39.03, Context: 现在卡关了……, Similarity: 0.1844
-3. Timeline: 0:05:11.71-0:05:16.71, Context: 书：生命的轮回，Rose Vanderboom（Albert的女儿）, Similarity: 0.1708
-4. Timeline: 0:08:37.78-0:08:42.78, Context: 现在是鱼的世界，所以是水下，有水很正常的, Similarity: 0.1535
-5. Timeline: 0:06:36.84-0:06:41.84, Context: 过去亦未过去, Similarity: 0.1534
-6. Timeline: 0:08:48.01-0:08:56.01, Context: 鱼的世界都是水, Similarity: 0.1534
-7. Timeline: 0:02:37.63-0:02:45.63, Context: 我先拿刀去换心脏了，就不还我了，现在很尴尬, Similarity: 0.1429
-8. Timeline: 0:19:22.38-0:19:30.38, Context: 现在来看教程, Similarity: 0.1429
-9. Timeline: 0:14:34.59-0:14:42.59, Context: 找不同, Similarity: 0.1268
-10. Timeline: 0:14:54.67-0:15:02.67, Context: 选不同, Similarity: 0.1268
+Most similar template: 当一个人接受灵魂转世的理念时，他必须接受每个有情众生从过去到现在、从现在到未来世界的自我认同与重生。
+1. Timeline: 0:11:31.03-0:11:39.03, Context: 现在卡关了……, Similarity: 0.1844
+2. Timeline: 0:08:37.78-0:08:42.78, Context: 现在是鱼的世界，所以是水下，有水很正常的, Similarity: 0.1535
+3. Timeline: 0:06:36.84-0:06:41.84, Context: 过去亦未过去, Similarity: 0.1534
+4. Timeline: 0:08:48.01-0:08:56.01, Context: 鱼的世界都是水, Similarity: 0.1534
+5. Timeline: 0:02:37.63-0:02:45.63, Context: 我先拿刀去换心脏了，就不还我了，现在很尴尬, Similarity: 0.1429
+6. Timeline: 0:19:22.38-0:19:30.38, Context: 现在来看教程, Similarity: 0.1429
+7. Timeline: 0:02:25.79-0:02:33.79, Context: 现在在水里 反牛顿哪位, Similarity: 0.1208
+8. Timeline: 0:20:06.31-0:20:14.31, Context: 记住现在这个月亮, Similarity: 0.1208
+9. Timeline: 0:09:37.56-0:09:45.56, Context: 晕 现在才发现对应的是各自的视角, Similarity: 0.1066
+10. Timeline: 0:19:21.10-0:19:29.10, Context: 这个时间我是一个一个试出来的。。, Similarity: 0.0974
